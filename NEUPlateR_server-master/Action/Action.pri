@@ -1,0 +1,6 @@
+include(PayerAction/PayerAction.pri)
+include(EnterExitStationAction/EnterExitStationAction.pri)
+include(TollStationAction/TollStationAction.pri)
+include(CarAction/CarAction.pri)
+include(EmployeeAction/EmployeeAction.pri)
+include(DeductionAction/DeductionAction.pri)
